@@ -2,7 +2,7 @@ package main
 
 import (
 	"github.com/gin-gonic/gin"
-	"github.com/riandiangga12/Training Golang/router"
+	"github.com/riandiangga12/Golangtraining/Training Golang/router"
 )
 
 func main() {
