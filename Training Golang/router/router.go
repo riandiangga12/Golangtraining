@@ -2,7 +2,7 @@ package router
 
 import (
 	"github.com/gin-gonic/gin"
-	"github.com/riandiangga12/Training Golang/Traning Golang/handler"
+	"github.com/riandiangga12/Golangtraining/Training Golang/handler"
 )
 
 func SetupRouter(r *gin.Engine) {
